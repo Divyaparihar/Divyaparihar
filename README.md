@@ -3,8 +3,6 @@
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1894420/screenshots/14032021/media/a85f637f1eb4cd5efdd307f9760472a1.gif" >
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1894420/screenshots/14032021/media/a85f637f1eb4cd5efdd307f9760472a1.gif" >
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyaparihar&label=Profile%20views&color=0e75b6&style=flat" alt="divyaparihar" /> </p>
 
 - 🌱 I’m currently learning **Full stack development, Java and Springboot**
