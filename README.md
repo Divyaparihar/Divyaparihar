@@ -1,3 +1,4 @@
+![logo](https://github.com/Divyaparihar/Divyaparihar/blob/main/Banner.gif)
 <h1 align="center">Hi 👋, I'm Divya Parihar</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
