@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **Full stack development, Java and Springboot**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/divya-parihar/](https://www.linkedin.com/in/divya-parihar/)
-
 - 💬 Ask me about **Web Development & Java Programming**
 
 - 📫 How to reach me **parihardivya77@gmail.com**
